@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\bin\Debug\CALC.exe.config
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\bin\Debug\CALC.exe
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\bin\Debug\CALC.pdb
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Debug\CALC.Form1.resources
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Debug\CALC.Properties.Resources.resources
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Debug\CALC.csproj.GenerateResource.cache
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Debug\CALC.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Debug\CALC.exe
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Debug\CALC.pdb
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Debug\CALC.Form2.resources
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Debug\CALC.Form3.resources
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Debug\CALC.csproj.AssemblyReference.cache

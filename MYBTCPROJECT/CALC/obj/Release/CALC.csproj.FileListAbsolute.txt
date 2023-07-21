@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\bin\Release\CALC.exe.config
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\bin\Release\CALC.exe
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\bin\Release\CALC.pdb
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Release\CALC.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Release\CALC.Form1.resources
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Release\CALC.Form2.resources
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Release\CALC.Form3.resources
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Release\CALC.Properties.Resources.resources
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Release\CALC.csproj.GenerateResource.cache
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Release\CALC.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Release\CALC.exe
+C:\Users\student\Documents\Егор Л\ProjectX\MYBTCPROJECT\CALC\obj\Release\CALC.pdb
